@@ -1,0 +1,43 @@
+timestamp,product_sku,keyword,mentions_count,sentiment_score,platform,related_hashtags,influencer_id,engagement_rate,virality_score,campaign_mention
+2025-07-13 07:00:00,AF-PRO-2025,air fryer recipe,120,0.4,TikTok,"#airfryerrecipes,#healthycooking",INFL001,0.03,0.15,None
+2025-07-13 08:00:00,AF-PRO-2025,healthy cooking,50,0.3,Instagram,"#healthylifestyle,#easyrecipes",INFL002,0.02,0.08,None
+2025-07-13 09:00:00,AF-PRO-2025,kitchen gadgets,70,0.5,Facebook,"#kitchentools,#homehacks",INFL003,0.04,0.12,None
+2025-07-13 10:00:00,AF-PRO-2025,smart home appliances,90,0.6,Twitter,"#smarthome,#techtrends",INFL004,0.05,0.18,None
+2025-07-13 11:00:00,AF-PRO-2025,smart airfryer review,80,0.6,YouTube,"#productreview,#airfryer",INFL005,0.06,0.20,None
+2025-07-13 12:00:00,AF-PRO-2025,quick meals,110,0.45,TikTok,"#quickdinner,#mealprep",INFL001,0.035,0.17,None
+2025-07-13 13:00:00,AF-PRO-2025,air fryer sale,250,0.7,Twitter,"#walmartdeals,#salealert",INFL004,0.08,0.30,CAMPAIGN_SUMMER_SALE
+2025-07-13 14:00:00,AF-PRO-2025,energy efficient cooking,130,0.65,Instagram,"#sustainableliving,#ecofriendly",INFL002,0.04,0.19,None
+2025-07-13 15:00:00,AF-PRO-2025,best air fryer,300,0.8,TikTok,"#toprated,#kitchenmusthaves",INFL001,0.1,0.40,None
+2025-07-13 16:00:00,AF-PRO-2025,must-have kitchen,180,0.75,Facebook,"#kitcheninspo,#homeessentials",INFL003,0.06,0.25,None
+2025-07-13 17:00:00,AF-PRO-2025,air fryer hacks,160,0.55,YouTube,"#cookinghacks,#lifehacks",INFL005,0.05,0.22,None
+2025-07-13 18:00:00,AF-PRO-2025,walmart deals,220,0.6,Twitter,"#bargainhunt,#shopping",INFL004,0.07,0.28,CAMPAIGN_SUMMER_SALE
+2025-07-13 19:00:00,AF-PRO-2025,cooking at home,95,0.4,Instagram,"#homecooking,#dinnerideas",INFL002,0.025,0.1,None
+2025-07-13 20:00:00,AF-PRO-2025,easy dinner,140,0.5,TikTok,"#easymeals,#foodie",INFL001,0.04,0.18,None
+2025-07-14 07:00:00,AF-PRO-2025,morning routine,60,0.3,Instagram,"#morningvibes,#breakfast",INFL002,0.02,0.07,None
+2025-07-14 08:00:00,AF-PRO-2025,air fryer deals,180,0.5,Facebook,"#walmartsale,#kitchensale",INFL003,0.05,0.20,CAMPAIGN_SUMMER_SALE
+2025-07-14 09:00:00,AF-PRO-2025,kitchen inspiration,75,0.45,Pinterest,"#kitchengoals,#homedecor",INFL006,0.03,0.11,None
+2025-07-14 10:00:00,AF-PRO-2025,new appliances,100,0.6,Twitter,"#newtech,#appliances",INFL004,0.06,0.22,CAMPAIGN_HOME_TECH
+2025-07-14 11:00:00,AF-PRO-2025,healthy eating,85,0.55,YouTube,"#healthyliving,#diet",INFL005,0.045,0.16,None
+2025-07-14 12:00:00,AF-PRO-2025,lunch ideas,115,0.48,TikTok,"#lunchtime,#quickrecipes",INFL001,0.038,0.19,None
+2025-07-14 13:00:00,AF-PRO-2025,home tech,140,0.68,Twitter,"#smarthome,#techgadgets",INFL004,0.075,0.29,CAMPAIGN_HOME_TECH
+2025-07-14 14:00:00,AF-PRO-2025,cooking tips,170,0.7,Instagram,"#cookingtips,#foodhacks",INFL002,0.05,0.24,None
+2025-07-14 15:00:00,AF-PRO-2025,air fryer recipes,280,0.78,TikTok,"#airfryerlove,#easycooking",INFL001,0.09,0.38,None
+2025-07-14 16:00:00,AF-PRO-2025,kitchen organization,190,0.72,Facebook,"#organizedkitchen,#homeorganization",INFL003,0.065,0.26,None
+2025-07-14 17:00:00,AF-PRO-2025,product review,150,0.62,YouTube,"#techreview,#gadget",INFL005,0.055,0.23,None
+2025-07-14 18:00:00,AF-PRO-2025,online shopping,230,0.65,Twitter,"#onlineshopping,#ecommerce",INFL004,0.072,0.29,None
+2025-07-14 19:00:00,AF-PRO-2025,dinner ideas,100,0.42,Instagram,"#dinnerrecipes,#homechef",INFL002,0.028,0.11,None
+2025-07-14 20:00:00,AF-PRO-2025,air fryer cooking,160,0.52,TikTok,"#airfryerlife,#cookingfun",INFL001,0.042,0.20,None
+2025-07-15 07:00:00,AF-PRO-2025,breakfast ideas,70,0.35,Instagram,"#breakfastclub,#morningmeals",INFL002,0.025,0.08,None
+2025-07-15 08:00:00,AF-PRO-2025,home gadgets,190,0.55,Facebook,"#gadgets,#techforhome",INFL003,0.055,0.21,None
+2025-07-15 09:00:00,AF-PRO-2025,kitchen upgrades,80,0.48,Pinterest,"#kitchenreno,#dreamkitchen",INFL006,0.035,0.13,None
+2025-07-15 10:00:00,BLENDER-ULTRA,smoothie recipes,40,0.55,TikTok,"#smoothielove,#healthydrinks",INFL001,0.03,0.15,None
+2025-07-15 11:00:00,BLENDER-ULTRA,protein shakes,30,0.45,Instagram,"#fitness,#nutrition",INFL007,0.025,0.1,None
+2025-07-15 12:00:00,COFFEE-MAKER-PRO,coffee lovers,60,0.65,Twitter,"#coffeetime,#morningbrew",INFL004,0.05,0.2,None
+2025-07-15 13:00:00,COFFEE-MAKER-PRO,espresso machine,45,0.58,YouTube,"#coffeereview,#barista",INFL005,0.04,0.18,None
+2025-07-15 14:00:00,VACUUM-ROBOT,smart cleaning,70,0.7,Facebook,"#robotvacuum,#homeautomation",INFL003,0.06,0.25,None
+2025-07-15 15:00:00,VACUUM-ROBOT,pet hair vacuum,55,0.62,TikTok,"#pethacks,#cleanhome",INFL001,0.045,0.22,None
+2025-07-15 16:00:00,SMART-SPEAKER,voice assistant,80,0.75,Twitter,"#alexa,#googlehome",INFL004,0.07,0.28,None
+2025-07-15 17:00:00,SMART-SPEAKER,home security,65,0.68,YouTube,"#smarthomesecurity,#techgadget",INFL005,0.05,0.23,None
+2025-07-15 18:00:00,FITNESS-TRACKER,workout gear,90,0.7,Instagram,"#fitnessmotivation,#gymlife",INFL007,0.06,0.26,None
+2025-07-15 19:00:00,FITNESS-TRACKER,health tech,75,0.65,Facebook,"#healthtech,#wearable",INFL003,0.055,0.24,None
+2025-07-15 20:00:00,AIR-PURIFIER,air quality,50,0.58,Twitter,"#cleanair,#allergies",INFL004,0.04,0.19,None
